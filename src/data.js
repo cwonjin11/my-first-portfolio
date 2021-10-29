@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Lego Displayer",
+    subtitle: "React Project",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "React front-end, Ruby on Rails as back-end SPA. Users can display, describe and share their Lego! Full CRUD with search function included 🕌",
+    image: "./project-5.gif",
+    link: "https://drive.google.com/file/d/12tC1mxwQ1V_FhXtfgZ-8R8ry3aLe0ocW/view?usp=sharing",
   },
   {
     title: "React Tracks",
